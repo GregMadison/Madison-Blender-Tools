@@ -2,7 +2,7 @@
 
 Assign three UV coordinates (1:xy, 2:xy, 3:xy) to the vertices of a selected triangle (vertex A, vertex B, vertex C) and auto-rotate through 6 mappings.
 
-![Panel](./screenshots/panel.png)
+<img width="2892" height="1834" alt="image" src="https://github.com/user-attachments/assets/c1f3c2fe-fc24-400d-a72f-27028fab2fe3" />
 
 ## Features
 - Capture UVs from the selected triangle (A→1, B→2, C→3)
