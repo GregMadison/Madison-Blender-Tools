@@ -36,7 +36,7 @@ Created by **Greg Madison**
 Interaction Designer & XR/AI Explorer  
 
 - 🌐 [Portfolio / Website](https://www.spatialcomputing.design)  
-- 💼 [LinkedIn](https://https://www.linkedin.com/in/gregmadison/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gregmadison/)  
 - 🐦 [Twitter / X](https://x.com/GregMadison)  
 - 🎥 [YouTube](https://www.youtube.com/@GregMadison)
 
